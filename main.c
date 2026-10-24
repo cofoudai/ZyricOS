@@ -1,6 +1,7 @@
+
 # include <stdio.h>
 
-int main() {
-  printf(""""ZyricOS V0
-    Originally made by Vivek Prasad"""");
+int main(void) {
+  printf("ZyricOS V0 originally made by Vivek Prasad");
+    return 0;
 }
